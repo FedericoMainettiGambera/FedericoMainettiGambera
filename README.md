@@ -25,4 +25,7 @@ ___
 -intelliJ
 -vim
 ___
+
+![Visitor Count](https://profile-counter.glitch.me/{FedericoMainettiGambera}/count.svg)
+
 *...check below to see some of my best projects, expecilly the **Clup** and the **ADRENALINA** projects...*
