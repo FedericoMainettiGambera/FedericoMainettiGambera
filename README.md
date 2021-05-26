@@ -3,29 +3,34 @@
 I graduated in **Computer Science Engineering** at Politecnico di Milano, and, am an aspiring **full stack web developer** based in **Italy**.  
 I love programming and am currently **looking for opportunities**.
 
-Feel free to contact me:
+Feel free to **contact me**:
  - federico.mttg@gmail.com
- - discover my Resume (also here you can find the italian version).
+ - +39 331 2918253
+
+Discover my **[CV](www.google.com)** (also [here](www.google.com) you can find the italian version).
 
 ___
-#### Most used Technologies
+#### Programming languages
 
--html
--css
--javascript - React
--Java - Tomcat JEE, others
--C
--MySQL Postgresql
+#### Technologies
+
+- html
+- css
+- javascript - React
+- Java 
+- Tomcat JEE
+- C
+- MySQL Postgresql
 
 #### Tools I like using
 
--git
--vsc
--latex
--intelliJ
--vim
+- git
+- vsc
+- latex
+- intelliJ
+- vim
 ___
 
 ![Visitor Count](https://profile-counter.glitch.me/{FedericoMainettiGambera}/count.svg)
 
-*...check below to see some of my best projects, expecilly the **Clup** and the **ADRENALINA** projects...*
+*...check below to see some of my best projects, expecilly **Clup** and **ADRENALINA**...*
