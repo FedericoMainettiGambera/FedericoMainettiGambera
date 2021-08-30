@@ -4,7 +4,7 @@ I graduated in **Computer Science Engineering** at Politecnico di Milano, and, a
 I love programming and am currently **looking for opportunities**.
 
 Feel free to **contact me**:
- - federico.mttg@gmail.com
+ - federicomainettigambera@gmail.com
  - +39 331 2918253
 
 Discover my **[CV](www.google.com)** (also [here](www.google.com) you can find the italian version).
