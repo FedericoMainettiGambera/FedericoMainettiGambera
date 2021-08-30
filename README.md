@@ -7,7 +7,7 @@ Feel free to **contact me**:
  - federicomainettigambera@gmail.com
  - +39 331 2918253
 
-Discover my **[CV](www.google.com)** (also [here](www.google.com) you can find the italian version).
+Discover my **[CV](https://github.com/FedericoMainettiGambera/FedericoMainettiGambera/blob/main/CV/CV_federico_mainetti_gambera_ENG.pdf)** (also [here](https://github.com/FedericoMainettiGambera/FedericoMainettiGambera/blob/main/CV/CV_federico_mainetti_gambera_ITA.pdf) you can find the italian version).
 
 ![](https://komarev.com/ghpvc/?username=FedericoMainettiGambera&color=green)
 
