@@ -9,28 +9,6 @@ Feel free to **contact me**:
 
 Discover my **[CV](www.google.com)** (also [here](www.google.com) you can find the italian version).
 
-___
-#### Programming languages
-
-#### Technologies
-
-- html
-- css
-- javascript - React
-- Java 
-- Tomcat JEE
-- C
-- MySQL Postgresql
-
-#### Tools I like using
-
-- git
-- vsc
-- latex
-- intelliJ
-- vim
-___
-
 ![Visitor Count](https://profile-counter.glitch.me/{FedericoMainettiGambera}/count.svg)
 
 *...check below to see some of my best projects, expecilly **Clup** and **ADRENALINA**...*
