@@ -2,8 +2,4 @@
 
 ![](https://komarev.com/ghpvc/?username=FedericoMainettiGambera&color=green)
 
-I do cool stuff on the web
-
-Feel free to **contact me**:
- - federicomainettigambera@gmail.com
- - +39 331 2918253
+boop
